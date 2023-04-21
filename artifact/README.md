@@ -16,3 +16,14 @@ COPY
 PASTE in main.tf
 terraform init
 terraform apply -auto-approve
+terrform destroy
+docker > open integrate terminal
+COPY from repository "spring-clinic"
+# gcloud auth configure-docker \
+#     us-central1-docker.pkg.dev
+in docker terminal
+# gcloud artifacts locations list > this command show what  region avaible
+# git checkout -b 2.0.0 > create new branch
+# git checkout 2.0.0 > go to branch 2.0.0
+# docker build -t us-central1-docker.pkg.dev/fit-symbol-382321/spring-clinic
+
